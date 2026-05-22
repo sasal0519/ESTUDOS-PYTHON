@@ -1,3 +1,0 @@
-# Contributors
-
-- sasal0519
