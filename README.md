@@ -20,3 +20,6 @@ Repositorio preparado a partir do notebook e dos codigos do projeto.
 - Abra o notebook no VS Code ou no Jupyter.
 - Para executar a versao em script, rode `python codigo_notebook.py`.
 - Para executar uma secao especifica, rode `python secoes_notebook/<arquivo>.py`.
+
+## Contributors
+Veja a lista em CONTRIBUTORS.md.
