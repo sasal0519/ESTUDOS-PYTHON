@@ -23,3 +23,4 @@ Repositorio preparado a partir do notebook e dos codigos do projeto.
 
 ## Contributors
 Veja a lista em CONTRIBUTORS.md.
+Tambem contribuido por: sasal0519.
