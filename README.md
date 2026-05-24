@@ -11,11 +11,6 @@ Repositorio preparado a partir do notebook e dos codigos do projeto.
 - `desafio_2_contar_caracteres_alt.py`: Desafio 2 (versao alternativa) em arquivo separado
 - `dependencias.txt`: dependencias identificadas para o projeto
 
-## Arquivos ignorados
-- `Notebooks/`
-- `venv/`
-- `.venv/`
-
 ## Como usar
 - Abra o notebook no VS Code ou no Jupyter.
 - Para executar a versao em script, rode `python codigo_notebook.py`.
